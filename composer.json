@@ -1,5 +1,5 @@
 {
-    "name": "dontastaturo/redbooth",
+    "name": "dontastaturo/socialite_redbooth",
     "description": "Redbooth OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
